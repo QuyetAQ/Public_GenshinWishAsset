@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-aadd6f5e.js",
+    "file": "start-6303ae00.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -17,19 +17,19 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-c15ebad7.js",
+    "file": "pages/__layout.svelte-53ba200f.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-ca6b8406.js",
-      "_env-f1c9c71d.js",
-      "_PopUp-45109adf.js",
+      "_env-daf617d3.js",
+      "_PopUp-5bbef121.js",
       "_audio-3ae179a7.js",
       "_index-4b848f7e.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-210fcc47.css"
+      "assets/pages/__layout.svelte-8def58c1.css"
     ]
   },
   "src/routes/__error.svelte": {
@@ -45,17 +45,17 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-a75992f1.js",
+    "file": "pages/index.svelte-ed7bedbe.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-e4860ae8.js",
       "_index-ca6b8406.js",
-      "_env-f1c9c71d.js",
+      "_env-daf617d3.js",
       "_audio-3ae179a7.js",
-      "_PopUp-45109adf.js",
-      "_WishListResult-916049ab.js",
+      "_PopUp-5bbef121.js",
+      "_WishListResult-23412c3f.js",
       "_Icon-401d1e32.js",
       "_index-4b848f7e.js"
     ],
@@ -76,20 +76,21 @@
       "src/lib/data/banners/events/2.4.json",
       "src/lib/data/banners/events/2.5.json",
       "src/lib/data/banners/events/2.6.json",
-      "src/lib/data/banners/events/2.7.json"
+      "src/lib/data/banners/events/2.7.json",
+      "src/lib/data/banners/events/2.8.json"
     ],
     "css": [
-      "assets/pages/index.svelte-7b3eb637.css"
+      "assets/pages/index.svelte-07f257bf.css"
     ]
   },
   "src/routes/screen/chars.svelte": {
-    "file": "pages/screen/chars.svelte-779ec1b2.js",
+    "file": "pages/screen/chars.svelte-377b7025.js",
     "src": "src/routes/screen/chars.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-ca6b8406.js",
-      "_env-f1c9c71d.js",
+      "_env-daf617d3.js",
       "_Icon-401d1e32.js",
       "_index-4b848f7e.js"
     ],
@@ -98,14 +99,14 @@
     ]
   },
   "src/routes/screen/wishlist.svelte": {
-    "file": "pages/screen/wishlist.svelte-452b6485.js",
+    "file": "pages/screen/wishlist.svelte-61a77ae2.js",
     "src": "src/routes/screen/wishlist.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-ca6b8406.js",
-      "_env-f1c9c71d.js",
-      "_WishListResult-916049ab.js",
+      "_env-daf617d3.js",
+      "_WishListResult-23412c3f.js",
       "_Icon-401d1e32.js",
       "_index-4b848f7e.js",
       "_audio-3ae179a7.js"
@@ -126,16 +127,16 @@
   "_preload-helper-e4860ae8.js": {
     "file": "chunks/preload-helper-e4860ae8.js"
   },
-  "_env-f1c9c71d.js": {
-    "file": "chunks/env-f1c9c71d.js",
+  "_env-daf617d3.js": {
+    "file": "chunks/env-daf617d3.js",
     "imports": [
       "_index-4b848f7e.js"
     ]
   },
-  "_PopUp-45109adf.js": {
-    "file": "chunks/PopUp-45109adf.js",
+  "_PopUp-5bbef121.js": {
+    "file": "chunks/PopUp-5bbef121.js",
     "imports": [
-      "_env-f1c9c71d.js",
+      "_env-daf617d3.js",
       "_audio-3ae179a7.js",
       "_index-ca6b8406.js"
     ],
@@ -155,13 +156,13 @@
       "_index-ca6b8406.js"
     ]
   },
-  "_WishListResult-916049ab.js": {
-    "file": "chunks/WishListResult-916049ab.js",
+  "_WishListResult-23412c3f.js": {
+    "file": "chunks/WishListResult-23412c3f.js",
     "imports": [
       "_index-ca6b8406.js",
       "_audio-3ae179a7.js",
       "_Icon-401d1e32.js",
-      "_env-f1c9c71d.js"
+      "_env-daf617d3.js"
     ],
     "css": [
       "assets/WishListResult-8fb5cc18.css"
@@ -250,6 +251,11 @@
   "src/lib/data/banners/events/2.7.json": {
     "file": "chunks/2.7-c7f751f1.js",
     "src": "src/lib/data/banners/events/2.7.json",
+    "isDynamicEntry": true
+  },
+  "src/lib/data/banners/events/2.8.json": {
+    "file": "chunks/2.8-72b92699.js",
+    "src": "src/lib/data/banners/events/2.8.json",
     "isDynamicEntry": true
   }
 }
