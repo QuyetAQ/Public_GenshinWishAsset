@@ -1,11 +1,11 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-2066bb1d.js",
+    "file": "start-ceec2e6a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-64ac1a1c.js",
-      "_index-9a8ef8d2.js",
+      "_index-2f7e36f4.js",
+      "_index-60e82001.js",
       "_preload-helper-e4860ae8.js"
     ],
     "dynamicImports": [
@@ -17,17 +17,17 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-3d14b554.js",
+    "file": "pages/__layout.svelte-b8c29210.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-64ac1a1c.js",
-      "_localstore-be2c5162.js",
+      "_index-2f7e36f4.js",
+      "_localstore-385e3664.js",
       "_preload-helper-e4860ae8.js",
-      "_importLocalData-02f0bf22.js",
-      "_index-24f6768e.js",
-      "_index-9a8ef8d2.js"
+      "_importLocalData-1a9aaac5.js",
+      "_index-4f5f01e4.js",
+      "_index-60e82001.js"
     ],
     "dynamicImports": [
       "src/locales/weapons/en-US.json",
@@ -39,35 +39,35 @@
       "src/locales/zh-CN.json"
     ],
     "css": [
-      "assets/pages/__layout.svelte-83d8cc83.css"
+      "assets/pages/__layout.svelte-908db00b.css"
     ]
   },
   "src/routes/__error.svelte": {
-    "file": "pages/__error.svelte-68588d69.js",
+    "file": "pages/__error.svelte-b575df0f.js",
     "src": "src/routes/__error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-64ac1a1c.js"
+      "_index-2f7e36f4.js"
     ],
     "css": [
       "assets/pages/__error.svelte-8c0ed91a.css"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-f598b8ca.js",
+    "file": "pages/index.svelte-a2c02925.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-e4860ae8.js",
-      "_index-64ac1a1c.js",
-      "_localstore-be2c5162.js",
-      "_importLocalData-02f0bf22.js",
-      "_WishListResult-669ae59b.js",
-      "_index-24f6768e.js",
-      "_Icon-05dd7dd7.js",
-      "_index-9a8ef8d2.js"
+      "_index-2f7e36f4.js",
+      "_localstore-385e3664.js",
+      "_importLocalData-1a9aaac5.js",
+      "_WishListResult-f657e8e5.js",
+      "_index-4f5f01e4.js",
+      "_Icon-36fec639.js",
+      "_index-60e82001.js"
     ],
     "dynamicImports": [
       "src/lib/data/banners/standard/1.json",
@@ -90,88 +90,88 @@
       "src/lib/data/banners/events/2.8.json"
     ],
     "css": [
-      "assets/pages/index.svelte-d13c622e.css"
+      "assets/pages/index.svelte-b1e6273c.css"
     ]
   },
   "src/routes/screen/chars.svelte": {
-    "file": "pages/screen/chars.svelte-fcefab94.js",
+    "file": "pages/screen/chars.svelte-49485af5.js",
     "src": "src/routes/screen/chars.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-64ac1a1c.js",
-      "_localstore-be2c5162.js",
-      "_Icon-05dd7dd7.js",
-      "_index-9a8ef8d2.js"
+      "_index-2f7e36f4.js",
+      "_localstore-385e3664.js",
+      "_Icon-36fec639.js",
+      "_index-60e82001.js"
     ],
     "css": [
-      "assets/pages/screen/chars.svelte-8613001c.css"
+      "assets/pages/screen/chars.svelte-28e51f28.css"
     ]
   },
   "src/routes/screen/wishlist.svelte": {
-    "file": "pages/screen/wishlist.svelte-9647fdb7.js",
+    "file": "pages/screen/wishlist.svelte-ee0a5189.js",
     "src": "src/routes/screen/wishlist.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-64ac1a1c.js",
-      "_localstore-be2c5162.js",
-      "_WishListResult-669ae59b.js",
-      "_index-9a8ef8d2.js",
-      "_Icon-05dd7dd7.js",
-      "_index-24f6768e.js"
+      "_index-2f7e36f4.js",
+      "_localstore-385e3664.js",
+      "_WishListResult-f657e8e5.js",
+      "_index-60e82001.js",
+      "_Icon-36fec639.js",
+      "_index-4f5f01e4.js"
     ],
     "css": [
-      "assets/pages/screen/wishlist.svelte-8ccbee2a.css"
+      "assets/pages/screen/wishlist.svelte-7eb9e93d.css"
     ]
   },
-  "_index-64ac1a1c.js": {
-    "file": "chunks/index-64ac1a1c.js"
+  "_index-2f7e36f4.js": {
+    "file": "chunks/index-2f7e36f4.js"
   },
-  "_index-9a8ef8d2.js": {
-    "file": "chunks/index-9a8ef8d2.js",
+  "_index-60e82001.js": {
+    "file": "chunks/index-60e82001.js",
     "imports": [
-      "_index-64ac1a1c.js"
+      "_index-2f7e36f4.js"
     ]
   },
   "_preload-helper-e4860ae8.js": {
     "file": "chunks/preload-helper-e4860ae8.js"
   },
-  "_localstore-be2c5162.js": {
-    "file": "chunks/localstore-be2c5162.js",
+  "_localstore-385e3664.js": {
+    "file": "chunks/localstore-385e3664.js",
     "imports": [
-      "_index-9a8ef8d2.js"
+      "_index-60e82001.js"
     ]
   },
-  "_importLocalData-02f0bf22.js": {
-    "file": "chunks/importLocalData-02f0bf22.js",
+  "_importLocalData-1a9aaac5.js": {
+    "file": "chunks/importLocalData-1a9aaac5.js",
     "imports": [
-      "_localstore-be2c5162.js"
+      "_localstore-385e3664.js"
     ]
   },
-  "_index-24f6768e.js": {
-    "file": "chunks/index-24f6768e.js",
+  "_index-4f5f01e4.js": {
+    "file": "chunks/index-4f5f01e4.js",
     "imports": [
-      "_index-64ac1a1c.js"
+      "_index-2f7e36f4.js"
     ]
   },
-  "_WishListResult-669ae59b.js": {
-    "file": "chunks/WishListResult-669ae59b.js",
+  "_WishListResult-f657e8e5.js": {
+    "file": "chunks/WishListResult-f657e8e5.js",
     "imports": [
-      "_index-64ac1a1c.js",
-      "_localstore-be2c5162.js",
-      "_Icon-05dd7dd7.js",
-      "_index-24f6768e.js"
+      "_index-2f7e36f4.js",
+      "_localstore-385e3664.js",
+      "_Icon-36fec639.js",
+      "_index-4f5f01e4.js"
     ],
     "css": [
       "assets/WishListResult-a9346a5f.css"
     ]
   },
-  "_Icon-05dd7dd7.js": {
-    "file": "chunks/Icon-05dd7dd7.js",
+  "_Icon-36fec639.js": {
+    "file": "chunks/Icon-36fec639.js",
     "imports": [
-      "_localstore-be2c5162.js",
-      "_index-64ac1a1c.js"
+      "_localstore-385e3664.js",
+      "_index-2f7e36f4.js"
     ]
   },
   "src/locales/weapons/en-US.json": {
@@ -180,7 +180,7 @@
     "isDynamicEntry": true
   },
   "src/locales/weapons/zh-CN.json": {
-    "file": "chunks/zh-CN-c6ec1355.js",
+    "file": "chunks/zh-CN-2370c99b.js",
     "src": "src/locales/weapons/zh-CN.json",
     "isDynamicEntry": true
   },
@@ -190,7 +190,7 @@
     "isDynamicEntry": true
   },
   "src/locales/characters/zh-CN.json": {
-    "file": "chunks/zh-CN-dffd0b04.js",
+    "file": "chunks/zh-CN-83876b59.js",
     "src": "src/locales/characters/zh-CN.json",
     "isDynamicEntry": true
   },
@@ -200,12 +200,12 @@
     "isDynamicEntry": true
   },
   "src/locales/id-ID.json": {
-    "file": "chunks/id-ID-0cf3bfad.js",
+    "file": "chunks/id-ID-874aceca.js",
     "src": "src/locales/id-ID.json",
     "isDynamicEntry": true
   },
   "src/locales/zh-CN.json": {
-    "file": "chunks/zh-CN-b0f74ddf.js",
+    "file": "chunks/zh-CN-83f12871.js",
     "src": "src/locales/zh-CN.json",
     "isDynamicEntry": true
   },
@@ -295,7 +295,7 @@
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/2.8.json": {
-    "file": "chunks/2.8-fd80274c.js",
+    "file": "chunks/2.8-65a99690.js",
     "src": "src/lib/data/banners/events/2.8.json",
     "isDynamicEntry": true
   }
