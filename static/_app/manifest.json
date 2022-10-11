@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-cf49a9c5.js",
+    "file": "start-9d7afdb3.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -61,7 +61,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-793887a6.js",
+    "file": "pages/index.svelte-b3bec283.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -70,7 +70,7 @@
       "_index-2f7e36f4.js",
       "_localstore-af389387.js",
       "_importLocalData-d409850d.js",
-      "_WishListResult-9d058492.js",
+      "_WishListResult-95cef855.js",
       "_index-4f5f01e4.js",
       "_Icon-6f681f0a.js",
       "_index-60e82001.js"
@@ -117,14 +117,14 @@
     ]
   },
   "src/routes/screen/wishlist.svelte": {
-    "file": "pages/screen/wishlist.svelte-c8b966ce.js",
+    "file": "pages/screen/wishlist.svelte-640c8604.js",
     "src": "src/routes/screen/wishlist.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
       "_localstore-af389387.js",
-      "_WishListResult-9d058492.js",
+      "_WishListResult-95cef855.js",
       "_index-60e82001.js",
       "_Icon-6f681f0a.js",
       "_index-4f5f01e4.js"
@@ -163,8 +163,8 @@
       "_index-2f7e36f4.js"
     ]
   },
-  "_WishListResult-9d058492.js": {
-    "file": "chunks/WishListResult-9d058492.js",
+  "_WishListResult-95cef855.js": {
+    "file": "chunks/WishListResult-95cef855.js",
     "imports": [
       "_index-2f7e36f4.js",
       "_localstore-af389387.js",
