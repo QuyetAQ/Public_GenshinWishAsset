@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-c317995b.js",
+    "file": "start-baa4b83d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -17,15 +17,15 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-5916c3cc.js",
+    "file": "pages/__layout.svelte-451cbb7d.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-af389387.js",
+      "_localstore-1ab8fb5c.js",
       "_preload-helper-e4860ae8.js",
-      "_importLocalData-d409850d.js",
+      "_importLocalData-34275cff.js",
       "_index-4f5f01e4.js",
       "_index-60e82001.js"
     ],
@@ -40,6 +40,7 @@
       "src/locales/characters/zh-CN.json",
       "src/locales/en-US.json",
       "src/locales/id-ID.json",
+      "src/locales/it-IT.json",
       "src/locales/ru-RU.json",
       "src/locales/vi-VN.json",
       "src/locales/zh-CN.json"
@@ -61,18 +62,18 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-cfe9810a.js",
+    "file": "pages/index.svelte-45b135ea.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-e4860ae8.js",
       "_index-2f7e36f4.js",
-      "_localstore-af389387.js",
-      "_importLocalData-d409850d.js",
-      "_WishListResult-958e6355.js",
+      "_localstore-1ab8fb5c.js",
+      "_importLocalData-34275cff.js",
+      "_WishListResult-f7719b4b.js",
       "_index-4f5f01e4.js",
-      "_Icon-6f681f0a.js",
+      "_Icon-dab32707.js",
       "_index-60e82001.js"
     ],
     "dynamicImports": [
@@ -95,21 +96,22 @@
       "src/lib/data/banners/events/2.7.json",
       "src/lib/data/banners/events/2.8.json",
       "src/lib/data/banners/events/3.0.json",
-      "src/lib/data/banners/events/3.1.json"
+      "src/lib/data/banners/events/3.1.json",
+      "src/lib/data/banners/events/3.2.json"
     ],
     "css": [
       "assets/pages/index.svelte-acba0b92.css"
     ]
   },
   "src/routes/screen/chars.svelte": {
-    "file": "pages/screen/chars.svelte-2dc9f387.js",
+    "file": "pages/screen/chars.svelte-69e5787d.js",
     "src": "src/routes/screen/chars.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-af389387.js",
-      "_Icon-6f681f0a.js",
+      "_localstore-1ab8fb5c.js",
+      "_Icon-dab32707.js",
       "_index-60e82001.js"
     ],
     "css": [
@@ -117,16 +119,16 @@
     ]
   },
   "src/routes/screen/wishlist.svelte": {
-    "file": "pages/screen/wishlist.svelte-9cd5ca83.js",
+    "file": "pages/screen/wishlist.svelte-14bf8089.js",
     "src": "src/routes/screen/wishlist.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-af389387.js",
-      "_WishListResult-958e6355.js",
+      "_localstore-1ab8fb5c.js",
+      "_WishListResult-f7719b4b.js",
       "_index-60e82001.js",
-      "_Icon-6f681f0a.js",
+      "_Icon-dab32707.js",
       "_index-4f5f01e4.js"
     ],
     "css": [
@@ -145,16 +147,16 @@
   "_preload-helper-e4860ae8.js": {
     "file": "chunks/preload-helper-e4860ae8.js"
   },
-  "_localstore-af389387.js": {
-    "file": "chunks/localstore-af389387.js",
+  "_localstore-1ab8fb5c.js": {
+    "file": "chunks/localstore-1ab8fb5c.js",
     "imports": [
       "_index-60e82001.js"
     ]
   },
-  "_importLocalData-d409850d.js": {
-    "file": "chunks/importLocalData-d409850d.js",
+  "_importLocalData-34275cff.js": {
+    "file": "chunks/importLocalData-34275cff.js",
     "imports": [
-      "_localstore-af389387.js"
+      "_localstore-1ab8fb5c.js"
     ]
   },
   "_index-4f5f01e4.js": {
@@ -163,87 +165,92 @@
       "_index-2f7e36f4.js"
     ]
   },
-  "_WishListResult-958e6355.js": {
-    "file": "chunks/WishListResult-958e6355.js",
+  "_WishListResult-f7719b4b.js": {
+    "file": "chunks/WishListResult-f7719b4b.js",
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-af389387.js",
-      "_Icon-6f681f0a.js",
+      "_localstore-1ab8fb5c.js",
+      "_Icon-dab32707.js",
       "_index-4f5f01e4.js"
     ],
     "css": [
       "assets/WishListResult-5ccfba42.css"
     ]
   },
-  "_Icon-6f681f0a.js": {
-    "file": "chunks/Icon-6f681f0a.js",
+  "_Icon-dab32707.js": {
+    "file": "chunks/Icon-dab32707.js",
     "imports": [
-      "_localstore-af389387.js",
+      "_localstore-1ab8fb5c.js",
       "_index-2f7e36f4.js"
     ]
   },
   "src/locales/weapons/en-US.json": {
-    "file": "chunks/en-US-9198b52d.js",
+    "file": "chunks/en-US-780fbc56.js",
     "src": "src/locales/weapons/en-US.json",
     "isDynamicEntry": true
   },
   "src/locales/weapons/ru-RU.json": {
-    "file": "chunks/ru-RU-98ebb4d9.js",
+    "file": "chunks/ru-RU-815a3382.js",
     "src": "src/locales/weapons/ru-RU.json",
     "isDynamicEntry": true
   },
   "src/locales/weapons/vi-VN.json": {
-    "file": "chunks/vi-VN-9bfff79d.js",
+    "file": "chunks/vi-VN-9a63572b.js",
     "src": "src/locales/weapons/vi-VN.json",
     "isDynamicEntry": true
   },
   "src/locales/weapons/zh-CN.json": {
-    "file": "chunks/zh-CN-492d84ed.js",
+    "file": "chunks/zh-CN-d1ea492d.js",
     "src": "src/locales/weapons/zh-CN.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/en-US.json": {
-    "file": "chunks/en-US-8dca48d7.js",
+    "file": "chunks/en-US-2fce73b2.js",
     "src": "src/locales/characters/en-US.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/ru-RU.json": {
-    "file": "chunks/ru-RU-a510d1de.js",
+    "file": "chunks/ru-RU-d77a30db.js",
     "src": "src/locales/characters/ru-RU.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/vi-VN.json": {
-    "file": "chunks/vi-VN-dcd16b56.js",
+    "file": "chunks/vi-VN-c5f7fd53.js",
     "src": "src/locales/characters/vi-VN.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/zh-CN.json": {
-    "file": "chunks/zh-CN-4ede57a9.js",
+    "file": "chunks/zh-CN-a8bfa4bc.js",
     "src": "src/locales/characters/zh-CN.json",
     "isDynamicEntry": true
   },
   "src/locales/en-US.json": {
-    "file": "chunks/en-US-70761748.js",
+    "file": "chunks/en-US-9b37066c.js",
     "src": "src/locales/en-US.json",
     "isDynamicEntry": true
   },
   "src/locales/id-ID.json": {
-    "file": "chunks/id-ID-9b079858.js",
+    "file": "chunks/id-ID-90ff9a8f.js",
     "src": "src/locales/id-ID.json",
     "isDynamicEntry": true
   },
+  "src/locales/it-IT.json": {
+    "file": "chunks/it-IT-f69bce97.js",
+    "src": "src/locales/it-IT.json",
+    "isDynamicEntry": true
+  },
   "src/locales/ru-RU.json": {
-    "file": "chunks/ru-RU-a8d4c5b1.js",
+    "file": "chunks/ru-RU-86a30980.js",
     "src": "src/locales/ru-RU.json",
     "isDynamicEntry": true
   },
   "src/locales/vi-VN.json": {
-    "file": "chunks/vi-VN-0fee50da.js",
+    "file": "chunks/vi-VN-f2d2f9be.js",
     "src": "src/locales/vi-VN.json",
     "isDynamicEntry": true
   },
   "src/locales/zh-CN.json": {
-    "file": "chunks/zh-CN-130a5e92.js",
+    "file": "chunks/zh-CN-061e2897.js",
     "src": "src/locales/zh-CN.json",
     "isDynamicEntry": true
   },
@@ -345,6 +352,11 @@
   "src/lib/data/banners/events/3.1.json": {
     "file": "chunks/3.1-d4c5a0be.js",
     "src": "src/lib/data/banners/events/3.1.json",
+    "isDynamicEntry": true
+  },
+  "src/lib/data/banners/events/3.2.json": {
+    "file": "chunks/3.2-497fe764.js",
+    "src": "src/lib/data/banners/events/3.2.json",
     "isDynamicEntry": true
   }
 }
