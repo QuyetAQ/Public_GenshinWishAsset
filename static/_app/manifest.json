@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8515a000.js",
+    "file": "start-7dbfa77c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -17,20 +17,22 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-e2a33ed6.js",
+    "file": "pages/__layout.svelte-7e3776ef.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-b47cdb93.js",
+      "_localstore-a4ae293c.js",
       "_preload-helper-e4860ae8.js",
-      "_importLocalData-bd526c82.js",
+      "_importLocalData-7ec594df.js",
       "_index-4f5f01e4.js",
       "_index-60e82001.js"
     ],
     "dynamicImports": [
       "src/locales/weapons/en-US.json",
+      "src/locales/weapons/fr-FR.json",
+      "src/locales/weapons/it-IT.json",
       "src/locales/weapons/ja-JP.json",
       "src/locales/weapons/pt-BR.json",
       "src/locales/weapons/ru-RU.json",
@@ -38,6 +40,8 @@
       "src/locales/weapons/vi-VN.json",
       "src/locales/weapons/zh-CN.json",
       "src/locales/characters/en-US.json",
+      "src/locales/characters/fr-FR.json",
+      "src/locales/characters/it-IT.json",
       "src/locales/characters/ja-JP.json",
       "src/locales/characters/pt-BR.json",
       "src/locales/characters/ru-RU.json",
@@ -45,6 +49,7 @@
       "src/locales/characters/vi-VN.json",
       "src/locales/characters/zh-CN.json",
       "src/locales/en-US.json",
+      "src/locales/fr-FR.json",
       "src/locales/id-ID.json",
       "src/locales/it-IT.json",
       "src/locales/ja-JP.json",
@@ -71,18 +76,18 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-a20ee46b.js",
+    "file": "pages/index.svelte-c3e7c9b7.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-e4860ae8.js",
       "_index-2f7e36f4.js",
-      "_localstore-b47cdb93.js",
-      "_importLocalData-bd526c82.js",
-      "_WishListResult-a7bea27e.js",
+      "_localstore-a4ae293c.js",
+      "_importLocalData-7ec594df.js",
+      "_WishListResult-eb21558f.js",
       "_index-4f5f01e4.js",
-      "_Icon-734e580b.js",
+      "_Icon-41484489.js",
       "_index-60e82001.js"
     ],
     "dynamicImports": [
@@ -116,14 +121,14 @@
     ]
   },
   "src/routes/screen/chars.svelte": {
-    "file": "pages/screen/chars.svelte-b4662bdb.js",
+    "file": "pages/screen/chars.svelte-11018d06.js",
     "src": "src/routes/screen/chars.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-b47cdb93.js",
-      "_Icon-734e580b.js",
+      "_localstore-a4ae293c.js",
+      "_Icon-41484489.js",
       "_index-60e82001.js"
     ],
     "css": [
@@ -131,16 +136,16 @@
     ]
   },
   "src/routes/screen/wishlist.svelte": {
-    "file": "pages/screen/wishlist.svelte-3868fa11.js",
+    "file": "pages/screen/wishlist.svelte-5e0e112d.js",
     "src": "src/routes/screen/wishlist.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-b47cdb93.js",
-      "_WishListResult-a7bea27e.js",
+      "_localstore-a4ae293c.js",
+      "_WishListResult-eb21558f.js",
       "_index-60e82001.js",
-      "_Icon-734e580b.js",
+      "_Icon-41484489.js",
       "_index-4f5f01e4.js"
     ],
     "css": [
@@ -159,16 +164,16 @@
   "_preload-helper-e4860ae8.js": {
     "file": "chunks/preload-helper-e4860ae8.js"
   },
-  "_localstore-b47cdb93.js": {
-    "file": "chunks/localstore-b47cdb93.js",
+  "_localstore-a4ae293c.js": {
+    "file": "chunks/localstore-a4ae293c.js",
     "imports": [
       "_index-60e82001.js"
     ]
   },
-  "_importLocalData-bd526c82.js": {
-    "file": "chunks/importLocalData-bd526c82.js",
+  "_importLocalData-7ec594df.js": {
+    "file": "chunks/importLocalData-7ec594df.js",
     "imports": [
-      "_localstore-b47cdb93.js"
+      "_localstore-a4ae293c.js"
     ]
   },
   "_index-4f5f01e4.js": {
@@ -177,28 +182,38 @@
       "_index-2f7e36f4.js"
     ]
   },
-  "_WishListResult-a7bea27e.js": {
-    "file": "chunks/WishListResult-a7bea27e.js",
+  "_WishListResult-eb21558f.js": {
+    "file": "chunks/WishListResult-eb21558f.js",
     "imports": [
       "_index-2f7e36f4.js",
-      "_localstore-b47cdb93.js",
-      "_Icon-734e580b.js",
+      "_localstore-a4ae293c.js",
+      "_Icon-41484489.js",
       "_index-4f5f01e4.js"
     ],
     "css": [
       "assets/WishListResult-5ccfba42.css"
     ]
   },
-  "_Icon-734e580b.js": {
-    "file": "chunks/Icon-734e580b.js",
+  "_Icon-41484489.js": {
+    "file": "chunks/Icon-41484489.js",
     "imports": [
-      "_localstore-b47cdb93.js",
+      "_localstore-a4ae293c.js",
       "_index-2f7e36f4.js"
     ]
   },
   "src/locales/weapons/en-US.json": {
     "file": "chunks/en-US-177a1a18.js",
     "src": "src/locales/weapons/en-US.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/weapons/fr-FR.json": {
+    "file": "chunks/fr-FR-f59aad3a.js",
+    "src": "src/locales/weapons/fr-FR.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/weapons/it-IT.json": {
+    "file": "chunks/it-IT-2cf043f9.js",
+    "src": "src/locales/weapons/it-IT.json",
     "isDynamicEntry": true
   },
   "src/locales/weapons/ja-JP.json": {
@@ -232,82 +247,97 @@
     "isDynamicEntry": true
   },
   "src/locales/characters/en-US.json": {
-    "file": "chunks/en-US-dc6b1b52.js",
+    "file": "chunks/en-US-9c562c1a.js",
     "src": "src/locales/characters/en-US.json",
     "isDynamicEntry": true
   },
+  "src/locales/characters/fr-FR.json": {
+    "file": "chunks/fr-FR-3805e1a9.js",
+    "src": "src/locales/characters/fr-FR.json",
+    "isDynamicEntry": true
+  },
+  "src/locales/characters/it-IT.json": {
+    "file": "chunks/it-IT-17c597d7.js",
+    "src": "src/locales/characters/it-IT.json",
+    "isDynamicEntry": true
+  },
   "src/locales/characters/ja-JP.json": {
-    "file": "chunks/ja-JP-a52554ee.js",
+    "file": "chunks/ja-JP-c96fc3b3.js",
     "src": "src/locales/characters/ja-JP.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/pt-BR.json": {
-    "file": "chunks/pt-BR-57caf484.js",
+    "file": "chunks/pt-BR-2dbafab4.js",
     "src": "src/locales/characters/pt-BR.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/ru-RU.json": {
-    "file": "chunks/ru-RU-74b967d0.js",
+    "file": "chunks/ru-RU-fcfed0e3.js",
     "src": "src/locales/characters/ru-RU.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/th-TH.json": {
-    "file": "chunks/th-TH-11a7e899.js",
+    "file": "chunks/th-TH-56f42453.js",
     "src": "src/locales/characters/th-TH.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/vi-VN.json": {
-    "file": "chunks/vi-VN-a84639a4.js",
+    "file": "chunks/vi-VN-4f0867b9.js",
     "src": "src/locales/characters/vi-VN.json",
     "isDynamicEntry": true
   },
   "src/locales/characters/zh-CN.json": {
-    "file": "chunks/zh-CN-340aa354.js",
+    "file": "chunks/zh-CN-9f5119e6.js",
     "src": "src/locales/characters/zh-CN.json",
     "isDynamicEntry": true
   },
   "src/locales/en-US.json": {
-    "file": "chunks/en-US-7ece76ac.js",
+    "file": "chunks/en-US-1d7e9982.js",
     "src": "src/locales/en-US.json",
     "isDynamicEntry": true
   },
+  "src/locales/fr-FR.json": {
+    "file": "chunks/fr-FR-a2b20e35.js",
+    "src": "src/locales/fr-FR.json",
+    "isDynamicEntry": true
+  },
   "src/locales/id-ID.json": {
-    "file": "chunks/id-ID-a9221d1c.js",
+    "file": "chunks/id-ID-684be615.js",
     "src": "src/locales/id-ID.json",
     "isDynamicEntry": true
   },
   "src/locales/it-IT.json": {
-    "file": "chunks/it-IT-bfe7c577.js",
+    "file": "chunks/it-IT-dc5277f5.js",
     "src": "src/locales/it-IT.json",
     "isDynamicEntry": true
   },
   "src/locales/ja-JP.json": {
-    "file": "chunks/ja-JP-18dd8a9a.js",
+    "file": "chunks/ja-JP-82033939.js",
     "src": "src/locales/ja-JP.json",
     "isDynamicEntry": true
   },
   "src/locales/pt-BR.json": {
-    "file": "chunks/pt-BR-2a9f63d3.js",
+    "file": "chunks/pt-BR-c6799f5b.js",
     "src": "src/locales/pt-BR.json",
     "isDynamicEntry": true
   },
   "src/locales/ru-RU.json": {
-    "file": "chunks/ru-RU-f7cac9d8.js",
+    "file": "chunks/ru-RU-96f0ceb5.js",
     "src": "src/locales/ru-RU.json",
     "isDynamicEntry": true
   },
   "src/locales/th-TH.json": {
-    "file": "chunks/th-TH-8e1a5880.js",
+    "file": "chunks/th-TH-2394d3ea.js",
     "src": "src/locales/th-TH.json",
     "isDynamicEntry": true
   },
   "src/locales/vi-VN.json": {
-    "file": "chunks/vi-VN-09ad5a64.js",
+    "file": "chunks/vi-VN-fdd97bcc.js",
     "src": "src/locales/vi-VN.json",
     "isDynamicEntry": true
   },
   "src/locales/zh-CN.json": {
-    "file": "chunks/zh-CN-52420bd3.js",
+    "file": "chunks/zh-CN-1eabec02.js",
     "src": "src/locales/zh-CN.json",
     "isDynamicEntry": true
   },
@@ -427,7 +457,7 @@
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.5.json": {
-    "file": "chunks/3.5-e5eacbf2.js",
+    "file": "chunks/3.5-96dd252f.js",
     "src": "src/lib/data/banners/events/3.5.json",
     "isDynamicEntry": true
   }
