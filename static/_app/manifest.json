@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-82c4cd2b.js",
+    "file": "start-48860660.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -76,7 +76,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-284c1973.js",
+    "file": "pages/index.svelte-a5c17d3f.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -93,6 +93,8 @@
     "dynamicImports": [
       "src/lib/data/banners/standard/1.json",
       "src/lib/data/banners/standard/2.json",
+      "src/lib/data/banners/standard/3.json",
+      "src/lib/data/banners/standard/4.json",
       "src/lib/data/banners/events/1.0.json",
       "src/lib/data/banners/events/1.1.json",
       "src/lib/data/banners/events/1.2.json",
@@ -352,6 +354,16 @@
     "src": "src/lib/data/banners/standard/2.json",
     "isDynamicEntry": true
   },
+  "src/lib/data/banners/standard/3.json": {
+    "file": "chunks/3-a32ca0f3.js",
+    "src": "src/lib/data/banners/standard/3.json",
+    "isDynamicEntry": true
+  },
+  "src/lib/data/banners/standard/4.json": {
+    "file": "chunks/4-bddac9fa.js",
+    "src": "src/lib/data/banners/standard/4.json",
+    "isDynamicEntry": true
+  },
   "src/lib/data/banners/events/1.0.json": {
     "file": "chunks/1.0-974f773c.js",
     "src": "src/lib/data/banners/events/1.0.json",
@@ -438,32 +450,32 @@
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.1.json": {
-    "file": "chunks/3.1-d4c5a0be.js",
+    "file": "chunks/3.1-dc32164f.js",
     "src": "src/lib/data/banners/events/3.1.json",
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.2.json": {
-    "file": "chunks/3.2-2418ab05.js",
+    "file": "chunks/3.2-9634db87.js",
     "src": "src/lib/data/banners/events/3.2.json",
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.3.json": {
-    "file": "chunks/3.3-47bbc10f.js",
+    "file": "chunks/3.3-3b2c85ed.js",
     "src": "src/lib/data/banners/events/3.3.json",
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.4.json": {
-    "file": "chunks/3.4-b70ee4aa.js",
+    "file": "chunks/3.4-75198a1e.js",
     "src": "src/lib/data/banners/events/3.4.json",
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.5.json": {
-    "file": "chunks/3.5-96dd252f.js",
+    "file": "chunks/3.5-9d4aa32d.js",
     "src": "src/lib/data/banners/events/3.5.json",
     "isDynamicEntry": true
   },
   "src/lib/data/banners/events/3.6.json": {
-    "file": "chunks/3.6-cf0e9718.js",
+    "file": "chunks/3.6-6636f98c.js",
     "src": "src/lib/data/banners/events/3.6.json",
     "isDynamicEntry": true
   }
