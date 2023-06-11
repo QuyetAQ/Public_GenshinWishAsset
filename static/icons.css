@@ -2,11 +2,10 @@
 
 @font-face {
 	font-family: 'genshin-icon';
-	src: url('assets/fonts/genshin-icon.eot');
-	src: url('assets/fonts/genshin-icon.eot?#iefix') format('embedded-opentype'),
-		url('assets/fonts/genshin-icon.woff') format('woff'),
-		url('assets/fonts/genshin-icon.ttf') format('truetype'),
-		url('assets/fonts/genshin-icon.svg#genshin-icon') format('svg');
+	src: url('fonts/genshin-icon.eot');
+	src: url('fonts/genshin-icon.eot?#iefix') format('embedded-opentype'),
+		url('fonts/genshin-icon.woff') format('woff'), url('fonts/genshin-icon.ttf') format('truetype'),
+		url('fonts/genshin-icon.svg#genshin-icon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -36,7 +35,6 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
 .gi-anemo:before {
 	content: '\61';
 }
@@ -186,8 +184,58 @@
 }
 .gi-plus:before {
 	content: '\59';
-	font-size: 1.2rem;
 }
 .gi-outfit:before {
 	content: '\74';
+}
+.gi-shrink:before {
+	content: '\30';
+}
+.gi-lose:before {
+	content: '\31';
+}
+.gi-win:before {
+	content: '\33';
+}
+.gi-selected:before {
+	content: '\32';
+}
+.gi-guaranteed:before {
+	content: '\35';
+}
+.gi-apple:before {
+	content: '\34';
+}
+.gi-android:before {
+	content: '\36';
+}
+.gi-windows:before {
+	content: '\37';
+}
+.gi-eye-slash:before {
+	content: '\38';
+}
+.gi-eye:before {
+	content: '\39';
+}
+.gi-check:before {
+	content: '\21';
+}
+.gi-chat:before {
+	content: '\5a';
+}
+.gi-fullscreen:before {
+	content: '\23';
+}
+.gi-picture:before {
+	content: '\22';
+}
+.gi-team:before {
+	content: '\24';
+}
+.gi-user:before {
+	content: '\25';
+}
+.gi-min:before {
+	content: '\26';
 }
